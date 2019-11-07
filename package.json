@@ -1,0 +1,14 @@
+{
+  "name": "thursdaypheonix",
+  "version": "1.0.0",
+  "description": "This is demo on node JS",
+  "main": "startMeUp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Kumar Atluri",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
